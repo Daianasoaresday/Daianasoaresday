@@ -17,13 +17,7 @@ height="125" border="0" alt="https://picasion.com/" /></a><br/>  <hr><hr><a href
   ![Snake animation](https://github.com/Daianasoaresday/Daianasoaresday/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Daianasoaresday}/count.svg" /></p> 
-<br>
-</div>
 
-  
  
 
 <!--
